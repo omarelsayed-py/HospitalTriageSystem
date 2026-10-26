@@ -1,0 +1,280 @@
+100
+Alice Johnson
+34
+CHEST_PAIN
+1
+1
+ICU
+1
+121
+Victor Wright
+68
+CHEST_PAIN
+1
+0
+None
+-1
+130
+Ella Mitchell
+61
+CHEST_PAIN
+1
+0
+None
+-1
+103
+David Brown
+29
+CHEST_PAIN
+1
+0
+None
+-1
+112
+Mia Thompson
+58
+CHEST_PAIN
+1
+0
+None
+-1
+127
+Brian Baker
+33
+CHEST_PAIN
+1
+0
+None
+-1
+106
+Grace Lee
+23
+CHEST_PAIN
+1
+0
+None
+-1
+115
+Paul Clark
+85
+CHEST_PAIN
+1
+0
+None
+-1
+124
+Yara Scott
+74
+CHEST_PAIN
+1
+0
+None
+-1
+109
+Jack Taylor
+71
+CHEST_PAIN
+1
+1
+General
+1
+118
+Sam Hall
+41
+CHEST_PAIN
+1
+1
+General
+2
+133
+Harry Turner
+65
+CHEST_PAIN
+1
+1
+Emergency
+4
+104
+Eve Davis
+52
+FRACTURE
+2
+1
+Emergency
+1
+107
+Henry Wilson
+60
+FRACTURE
+2
+1
+Emergency
+4
+110
+Kate Anderson
+19
+FRACTURE
+2
+1
+Emergency
+5
+113
+Noah Garcia
+72
+FRACTURE
+2
+1
+ICU
+2
+116
+Quinn Lewis
+27
+FRACTURE
+2
+2
+Emergency
+6
+134
+Isabel Phillips
+43
+FRACTURE
+2
+0
+None
+-1
+119
+Tina Young
+55
+FRACTURE
+2
+1
+Emergency
+7
+122
+Wendy Lopez
+36
+FRACTURE
+2
+1
+Emergency
+8
+125
+Zack Green
+18
+FRACTURE
+2
+0
+None
+-1
+128
+Chloe Nelson
+57
+FRACTURE
+2
+1
+Emergency
+3
+131
+Felix Perez
+39
+FRACTURE
+2
+2
+General
+3
+101
+Bob Smith
+67
+FRACTURE
+2
+0
+None
+-1
+108
+Ivy Chen
+38
+HEADACHE
+3
+2
+ICU
+4
+120
+Uma King
+22
+HEADACHE
+3
+0
+None
+-1
+126
+Amy Adams
+90
+HEADACHE
+3
+0
+None
+-1
+105
+Frank Miller
+81
+HEADACHE
+3
+0
+None
+-1
+111
+Liam Martinez
+44
+HEADACHE
+3
+0
+None
+-1
+129
+Daniel Carter
+46
+HEADACHE
+3
+0
+None
+-1
+102
+Carol White
+45
+HEADACHE
+3
+2
+General
+2
+114
+Olivia Robinson
+31
+HEADACHE
+3
+0
+None
+-1
+132
+Gina Roberts
+28
+HEADACHE
+3
+0
+None
+-1
+123
+Xavier Hill
+49
+HEADACHE
+3
+1
+ICU
+3
+117
+Rachel Walker
+63
+HEADACHE
+3
+2
+Emergency
+2

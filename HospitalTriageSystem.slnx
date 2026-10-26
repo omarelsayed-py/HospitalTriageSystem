@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HospitalTriageSystem/HospitalTriageSystem.vcxproj" Id="03917a3f-0d74-4914-9827-c87942613194" />
+</Solution>

@@ -1,0 +1,32 @@
+[Sun Oct 25 18:39:38 2026] System initialized: Wards set up successfully.
+[Sun Oct 25 18:40:31 2026] Registered new patient ID: 5
+[Sun Oct 25 18:40:49 2026] Registered new patient ID: 6
+[Sun Oct 25 18:41:27 2026] Registered new patient ID: 7
+[Sun Oct 25 18:57:22 2026] System initialized: Wards set up successfully.
+[Sun Oct 25 18:57:30 2026] Doctor viewed active patient triage queue.
+[Sun Oct 25 19:35:27 2026] System initialized: Wards and patient records loaded.
+[Sun Oct 25 19:35:54 2026] Registered new patient ID: 1
+[Sun Oct 25 19:36:28 2026] Registered new patient ID: 5
+[Sun Oct 25 19:36:51 2026] Registered new patient ID: 4
+[Sun Oct 25 19:37:12 2026] Registered new patient ID: 3
+[Sun Oct 25 19:37:27 2026] Patient ID 1 admitted to ICU (Bed #1).
+[Sun Oct 25 19:37:44 2026] Patient ID 5 admitted to General (Bed #1).
+[Sun Oct 25 19:38:05 2026] Patient ID 3 admitted to Emergency (Bed #1).
+[Sun Oct 25 19:38:29 2026] Doctor viewed active patient triage queue.
+[Sun Oct 25 19:38:37 2026] Doctor viewed ward occupancy reports.
+[Sun Oct 25 19:40:02 2026] System initialized: Wards and patient records loaded.
+[Sun Oct 25 19:40:19 2026] System initialized: Wards and patient records loaded.
+[Sun Oct 25 19:42:27 2026] System initialized: Wards and patient records loaded.
+[Sun Oct 25 19:45:53 2026] System initialized: Wards and patient records loaded.
+[Sun Oct 25 19:46:51 2026] Doctor viewed active patient triage queue.
+[Sun Oct 25 19:46:55 2026] Doctor viewed ward occupancy reports.
+[2026-10-25 19:49:33] System initialized: Wards and patient records loaded.
+[2026-10-25 19:50:09] Doctor viewed active patient triage queue.
+[2026-10-25 19:51:09] Patient ID 107 admitted to Emergency (Bed #4).
+[2026-10-25 19:51:20] Patient ID 110 admitted to Emergency (Bed #5).
+[2026-10-25 19:51:46] Patient ID 116 admitted to Emergency (Bed #6).
+[2026-10-25 19:51:50] Patient ID 119 admitted to Emergency (Bed #7).
+[2026-10-25 19:51:59] Patient ID 122 admitted to Emergency (Bed #8).
+[2026-10-25 19:52:57] Patient ID 116 discharged from Emergency.
+[2026-10-26 20:11:42] System initialized: Wards and patient records loaded.
+[2026-10-26 20:48:02] System initialized: Wards and patient records loaded.
